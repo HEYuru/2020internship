@@ -1,0 +1,2 @@
+http://dbpedia.org/ontology/Activity disjointWith http://dbpedia.org/ontology/Location
+http://dbpedia.org/ontology/Person disjointWith http://dbpedia.org/ontology/School

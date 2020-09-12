@@ -1,0 +1,3 @@
+http://dbpedia.org/ontology/Activity Same http://wikipedia.org/wiki/Ontology/Project
+http://dbpedia.org/ontology/Person Same http://wikipedia.org/wiki/Ontology/Man
+http://dbpedia.org/ontology/School Same http://wikipedia.org/wiki/Ontology/College

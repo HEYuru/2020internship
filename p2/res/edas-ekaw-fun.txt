@@ -1,0 +1,70 @@
+step1
+step2
+http://edas#Programme http://ekaw#Programme_Brochure
+http://edas#isTopicOf http://ekaw#topicCoveredBy
+http://edas#Place http://ekaw#Location
+1 2
+Nc667bfcc56f247238f32d45a8d09407e http://ekaw#Assigned_Paper
+http://edas#Organization http://ekaw#Organisation
+http://edas#isWrittenBy http://ekaw#writtenBy
+http://edas#Excursion http://ekaw#Conference_Trip
+http://edas#ConferenceDinner http://ekaw#Conference_Banquet
+http://edas#Reviewer N1e9dd8d8381c4adb92399ad1cf97eb4e
+http://edas#relatedToPaper http://ekaw#presentationOfPaper
+http://edas#isLocationOf http://ekaw#locationOf
+http://edas#Workshop http://ekaw#Workshop
+http://edas#PaperPresentation http://ekaw#Individual_Presentation
+http://edas#SocialEvent http://ekaw#Social_Event
+http://edas#isReviewedBy http://ekaw#hasReviewer
+http://edas#relatedToEvent http://ekaw#paperPresentedAs
+http://edas#Conference http://ekaw#Conference
+http://edas#AcceptedPaper http://ekaw#Accepted_Paper
+http://edas#Attendee http://ekaw#Conference_Participant
+http://edas#RejectedPaper http://ekaw#Rejected_Paper
+http://edas#hasRelatedPaper http://ekaw#authorOf
+http://edas#Person http://ekaw#Person
+http://edas#Topic http://ekaw#Research_Topic
+http://edas#isReviewing http://ekaw#reviewerOfPaper
+http://edas#Author http://ekaw#Paper_Author
+Naa4b71c1074c4fe0bf3ace6af7f5dc9d http://ekaw#Scientific_Event
+http://edas#Document http://ekaw#Document
+http://edas#AcademiaOrganization http://ekaw#Academic_Institution
+http://edas#hasLocation http://ekaw#heldIn
+http://edas#Paper http://ekaw#Paper
+http://edas#hasTopic http://ekaw#coversTopic
+http://edas#PublishedPaper Nb31fe45347ed4a4ab118642f84973026
+N03bbb780bb9a4395a0e5508151e4eafb http://ekaw#Event
+http://edas#SessionChair http://ekaw#Session_Chair
+http://edas#ConferenceSession http://ekaw#Conference_Session
+http://edas#Review http://ekaw#Review
+step3
+http://edas#isTopicOf : 0.11070156038825409
+http://ekaw#topicCoveredBy : 0.11918936035465484
+----------------
+http://edas#isWrittenBy : 0.313124939326279
+http://ekaw#writtenBy : 0.6276521129230229
+----------------
+http://edas#relatedToPaper : 1.0
+http://ekaw#presentationOfPaper : 1.0
+----------------
+http://edas#isLocationOf : 0.14084507042253522
+http://ekaw#locationOf : 0.25
+----------------
+http://edas#isReviewedBy : 0.18830882352941178
+http://ekaw#hasReviewer : 0.21239207102030888
+----------------
+http://edas#relatedToEvent : 1.0
+http://ekaw#paperPresentedAs : 1.0
+----------------
+http://edas#hasRelatedPaper : 0.18706921658091447
+http://ekaw#authorOf : 0.17122567069963177
+----------------
+http://edas#isReviewing : 0.1193014705882353
+http://ekaw#reviewerOfPaper : 0.10051076249543962
+----------------
+http://edas#hasLocation : 1.0
+http://ekaw#heldIn : 1.0
+----------------
+http://edas#hasTopic : 0.19830446000737192
+http://ekaw#coversTopic : 0.19753008233058897
+----------------
