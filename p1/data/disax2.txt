@@ -1,2 +1,0 @@
-http://wikipedia.org/wiki/Ontology/Project disjointWith http://wikipedia.org/wiki/Ontology/Man
-http://wikipedia.org/wiki/Ontology/Man disjointWith http://wikipedia.org/wiki/Ontology/College

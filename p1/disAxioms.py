@@ -211,7 +211,6 @@ print('scuccess discover disAxiom')
 
 
 '''
-
 dins = diff(old,new)
 addbis = addAxioms(dins,interv1)
 '''
@@ -221,6 +220,11 @@ add = addDisAxioms(new,newclass)
 
 removeclass = old.keys()-new.keys()
 rom = dele(removeclass,old)
+
+"""
+there are not put out like a file for disjointness axioms
+I wrote a function to output the file
+"""
 
 res = ( add | dasv1 )-rom
 
